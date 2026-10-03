@@ -1,9 +1,0 @@
-streamlit
-chromadb
-huggingface_hub
-groq
-pypdf
-python-docx
-langchain-text-splitters
-numpy
-python-dotenv
